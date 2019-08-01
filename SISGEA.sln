@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISGEA", "SISGEA\SISGEA.csproj", "{D842D417-B852-4D63-B597-954BDA0F2811}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4806E97B-F284-4AEF-9875-161DA1D1AF99}"
+	ProjectSection(SolutionItems) = preProject
+		Conexion.cs = Conexion.cs
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SISGEA_installer", "SISGEA_installer\SISGEA_installer.vdproj", "{D79CE8E6-F974-4F79-BA76-EB567616FF63}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sisgea_instalador", "Sisgea_instalador\Sisgea_instalador.vdproj", "{EDEC5A25-4433-4AF4-B74D-1019891AFD91}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador_SISGEA", "instalador_SISGEA\instalador_SISGEA.vdproj", "{90AAD316-58AC-4944-BC7E-49A17A0AD1CE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "INSLADOR_SISGEA_EMAPICA", "INSLADOR_SISGEA_EMAPICA\INSLADOR_SISGEA_EMAPICA.vdproj", "{7B739362-072F-4BCE-BAFA-1F8934B24FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D842D417-B852-4D63-B597-954BDA0F2811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D842D417-B852-4D63-B597-954BDA0F2811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D842D417-B852-4D63-B597-954BDA0F2811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D842D417-B852-4D63-B597-954BDA0F2811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79CE8E6-F974-4F79-BA76-EB567616FF63}.Debug|Any CPU.ActiveCfg = Debug
+		{D79CE8E6-F974-4F79-BA76-EB567616FF63}.Release|Any CPU.ActiveCfg = Release
+		{EDEC5A25-4433-4AF4-B74D-1019891AFD91}.Debug|Any CPU.ActiveCfg = Debug
+		{EDEC5A25-4433-4AF4-B74D-1019891AFD91}.Release|Any CPU.ActiveCfg = Release
+		{90AAD316-58AC-4944-BC7E-49A17A0AD1CE}.Debug|Any CPU.ActiveCfg = Debug
+		{90AAD316-58AC-4944-BC7E-49A17A0AD1CE}.Release|Any CPU.ActiveCfg = Release
+		{7B739362-072F-4BCE-BAFA-1F8934B24FB5}.Debug|Any CPU.ActiveCfg = Debug
+		{7B739362-072F-4BCE-BAFA-1F8934B24FB5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215FB98D-6822-47E3-A3A5-BDC18CEBDCC6}
+	EndGlobalSection
+EndGlobal

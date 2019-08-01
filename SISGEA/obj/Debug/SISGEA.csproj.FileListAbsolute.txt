@@ -1,0 +1,125 @@
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregar.resources
+D:\Proyectos\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtAreaExterna.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtAreaExterna.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmMantenimiento.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregarUsuario.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarArchivos.resources
+C:\Users\Renzo\Downloads\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarUsuarios.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregarUsuario.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarArchivos.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarUsuarios.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmMantenimiento.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmInvitado.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmBuscarInvitado.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtAreaExterna.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregarUsuario.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmBuscarInvitado.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarArchivos.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarUsuarios.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmInvitado.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmMantenimiento.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+C:\Users\Renzo\Desktop\SISGEA - EMAPICA\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.txtAreaExterna.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregarUsuario.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmBuscarInvitado.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarArchivos.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarUsuarios.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmInvitado.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmMantenimiento.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+D:\Proyectos\SISGEA - EMAPICA\Nuevo codigo\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.txtAreaExterna.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregarUsuario.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmBuscarInvitado.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarArchivos.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarUsuarios.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmInvitado.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmMantenimiento.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+C:\Users\Renzo\Desktop\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\bin\Debug\SISGEA.exe.config
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\bin\Debug\SISGEA.exe
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\bin\Debug\SISGEA.pdb
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.csprojAssemblyReference.cache
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.txtAreaExterna.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmAgregarUsuario.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.txtnumero.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmBuscarInvitado.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarArchivos.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmGestionarUsuarios.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmIngreso.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmInvitado.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmMantenimiento.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.frmPrincipal.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.Properties.Resources.resources
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.GenerateResource.cache
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.exe
+C:\Users\Renzo\Downloads\SISGEA\SISGEA\obj\Debug\SISGEA.pdb
